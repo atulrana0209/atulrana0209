@@ -1,7 +1,7 @@
 # Atul Rana  
 ### Backend Developer | Data Structures & Algorithms Enthusiast | Machine Learning Learner  
 
-Electronics and Communication Engineering(2023-27)
+Electronics and Communication Engineering(2023-27)  
 Indian Institute of Information Technology, Una  
 
 
