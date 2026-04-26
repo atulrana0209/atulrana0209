@@ -1,83 +1,59 @@
-# Atul Rana
-
-**Backend Developer | Data Structures & Algorithms Enthusiast | Machine Learning Learner**
+# Atul Rana  
+### Backend Developer | Data Structures & Algorithms Enthusiast | Machine Learning Learner  
 
 Electronics and Communication Engineering  
 Indian Institute of Information Technology, Una  
 
 📧 Email: atulrana0209@gmail.com  
 🔗 GitHub: https://github.com/atulrana0209  
-🔗 LinkedIn: https://www.linkedin.com/in/atul-rana-b90b812a9/
+🔗 LinkedIn: https://www.linkedin.com/in/atul-rana-b90b812a9/  
 
 ---
 
-## About
+## About Me  
 
-I am an undergraduate student in Electronics and Communication Engineering with a strong interest in backend systems, algorithms, and machine learning. My focus lies in building scalable and efficient server-side applications while strengthening problem-solving skills through Data Structures and Algorithms. I am also actively exploring practical applications of machine learning in real-world systems.
+I am an undergraduate student in Electronics and Communication Engineering with a strong interest in backend development, data structures and algorithms, and machine learning. I focus on building efficient and scalable backend systems while continuously strengthening my problem-solving and system design skills. Alongside this, I am exploring practical applications of machine learning to real-world problems.
 
 ---
 
-## Projects
+## Selected Projects  
 
-### Real-Time Chat Application (Full Stack)
-
+### 💬 Real-Time Chat Application (Full Stack)  
 **Tech Stack:** React, Node.js, Express, Socket.IO, MongoDB  
 
-- Designed and implemented a real-time messaging system using WebSocket communication  
-- Integrated JWT-based authentication for secure user sessions  
-- Developed persistent chat storage using MongoDB  
-- Built a responsive frontend using Vite for optimized performance  
+- Built a real-time messaging system using WebSocket communication  
+- Implemented secure authentication using JSON Web Tokens (JWT)  
+- Designed persistent data storage using MongoDB  
+- Developed a responsive and optimized frontend using Vite  
 
 ---
 
-### Flight Booking Service (Backend)
-
-**Duration:** Oct 2025 – Apr 2026  
+### ✈️ Flight Booking Service (Backend)  
+**Oct 2025 – Apr 2026**  
 **Tech Stack:** Node.js, Express.js, MySQL, Sequelize  
 
-- Developed RESTful APIs for flight search and booking operations  
-- Designed a scalable layered architecture (Controller–Service–Repository)  
+- Designed and implemented RESTful APIs for flight search and booking functionality  
+- Followed a layered architecture (Controller–Service–Repository pattern)  
 - Integrated MySQL database using Sequelize ORM  
-- Implemented middleware-based request handling and centralized error management  
+- Implemented middleware-based request handling and centralized error handling  
 
 ---
 
-## Skills
+## Technical Skills  
 
-**Programming Languages:** Python, JavaScript, C++, SQL  
-
-**Backend Development:** Node.js, Express.js, REST APIs  
-
+**Languages:** Python, JavaScript, C++, SQL  
+**Backend:** Node.js, Express.js, REST APIs  
 **Machine Learning:** Scikit-learn, Pandas, NumPy  
-
 **Databases:** MongoDB, MySQL  
-
-**Tools & Platforms:** Git, GitHub, Linux  
-
----
-
-## Achievements
-
-- Consistent practice in Data Structures & Algorithms  
-- Developed multiple backend and full-stack applications  
-- Continuously improving understanding of system design and scalable architectures  
+**Tools:** Git, GitHub, Linux  
 
 ---
 
-## Contact
+## Achievements  
 
-- Email: atulrana0209@gmail.com  
-- GitHub: https://github.com/atulrana0209  
-- LinkedIn: https://www.linkedin.com/in/atul-rana-b90b812a9/  
-- Instagram: https://instagram.com/atulrana_14  
-
----
-
-## Tech Stack
-
-Node.js • Express.js • MongoDB • MySQL • JavaScript • Python • Git
-
-
+- Consistent problem-solving practice in Data Structures & Algorithms  
+- Developed multiple backend and full-stack projects  
+- Actively improving knowledge of system design and scalable architectures  
 
 ---
 
@@ -89,7 +65,7 @@ Node.js • Express.js • MongoDB • MySQL • JavaScript • Python • Git
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Stack  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -99,5 +75,3 @@ Node.js • Express.js • MongoDB • MySQL • JavaScript • Python • Git
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-<!--[![](https://komarev.com/ghpvc/?username=atulrana0209&color=0)](https://visitcount.itsvg.in) -->
