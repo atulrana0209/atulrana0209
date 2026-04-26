@@ -1,56 +1,83 @@
-# Atul Rana  
-### Backend Developer | DSA Enthusiast | Machine Learning Learner  
+# Atul Rana
+
+**Backend Developer | Data Structures & Algorithms Enthusiast | Machine Learning Learner**
 
 Electronics and Communication Engineering  
 Indian Institute of Information Technology, Una  
 
 📧 Email: atulrana0209@gmail.com  
 🔗 GitHub: https://github.com/atulrana0209  
+🔗 LinkedIn: https://www.linkedin.com/in/atul-rana-b90b812a9/
 
 ---
 
-## About Me  
-I am a B.Tech student in Electronics and Communication Engineering with strong interests in Data Structures & Algorithms, Backend Development, and Machine Learning. I enjoy building scalable backend systems and solving complex problems while exploring real-world ML applications.
+## About
+
+I am an undergraduate student in Electronics and Communication Engineering with a strong interest in backend systems, algorithms, and machine learning. My focus lies in building scalable and efficient server-side applications while strengthening problem-solving skills through Data Structures and Algorithms. I am also actively exploring practical applications of machine learning in real-world systems.
+
 ---
 
-## Selected Projects  
+## Projects
 
-### 💬 Real-Time Chat Application (Full Stack)  
+### Real-Time Chat Application (Full Stack)
+
 **Tech Stack:** React, Node.js, Express, Socket.IO, MongoDB  
 
-- Real-time messaging using WebSockets  
-- JWT-based authentication  
-- Persistent chat storage with MongoDB  
-- Responsive frontend built with Vite  
+- Designed and implemented a real-time messaging system using WebSocket communication  
+- Integrated JWT-based authentication for secure user sessions  
+- Developed persistent chat storage using MongoDB  
+- Built a responsive frontend using Vite for optimized performance  
 
 ---
 
-### ✈️ Flight Booking Service (Backend)  
-**Oct 2025 – Apr 2026**  
+### Flight Booking Service (Backend)
+
+**Duration:** Oct 2025 – Apr 2026  
 **Tech Stack:** Node.js, Express.js, MySQL, Sequelize  
 
-- Flight search & booking APIs  
-- Layered architecture (Controller–Service–Repository)  
-- RESTful API design with MySQL  
-- Middleware & centralized error handling  
+- Developed RESTful APIs for flight search and booking operations  
+- Designed a scalable layered architecture (Controller–Service–Repository)  
+- Integrated MySQL database using Sequelize ORM  
+- Implemented middleware-based request handling and centralized error management  
 
 ---
 
-## Technical Skills  
+## Skills
 
-**Languages:** Python, JavaScript, C++, SQL  
-**Backend:** Node.js, Express.js, REST APIs  
+**Programming Languages:** Python, JavaScript, C++, SQL  
+
+**Backend Development:** Node.js, Express.js, REST APIs  
+
 **Machine Learning:** Scikit-learn, Pandas, NumPy  
+
 **Databases:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Linux  
+
+**Tools & Platforms:** Git, GitHub, Linux  
 
 ---
 
-## Achievements  
+## Achievements
 
-- Active problem solving in Data Structures & Algorithms  
-- Built multiple backend and full-stack projects  
-- Continuously improving system design skills  
+- Consistent practice in Data Structures & Algorithms  
+- Developed multiple backend and full-stack applications  
+- Continuously improving understanding of system design and scalable architectures  
+
+---
+
+## Contact
+
+- Email: atulrana0209@gmail.com  
+- GitHub: https://github.com/atulrana0209  
+- LinkedIn: https://www.linkedin.com/in/atul-rana-b90b812a9/  
+- Instagram: https://instagram.com/atulrana_14  
+
+---
+
+## Tech Stack
+
+Node.js • Express.js • MongoDB • MySQL • JavaScript • Python • Git
+
+
 
 ---
 
